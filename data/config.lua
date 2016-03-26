@@ -51,6 +51,7 @@ do local _ = {
         "leave_ban", 
         "c",
 "echo all"
+"welcome"
                                           ,{
     sudo_users = {
                       119408525 
