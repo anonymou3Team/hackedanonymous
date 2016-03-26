@@ -239,16 +239,14 @@ function create_config( )
     sudo_users = {118682430},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Creed bot 2.3
+    about_text = [[απσπφmσϑζ©βστ 2.3
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by : @anonymou3nk↫ 
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @sorblack_creed
-   ߔࠀ   @amircc_creed
-   ߔࠀ   @aria_creed
+   ߔࠀ   @anonymou3nk
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
@@ -256,6 +254,8 @@ function create_config( )
 ]],
     help_text_realm = [[
 Realm Commands:
+
+ ☞★☜απσπφ๓σϑζ☞★☜
 
 !creategroup [Name]
 Create a group
@@ -343,6 +343,8 @@ You Can user both "!" & "/" for them
     help_text = [[
 bots Help for mods : Plugins
 
+☞★☜απσπφ๓σϑζ☞★☜
+
 Banhammer : 
 
 
@@ -366,8 +368,10 @@ For Admins :
 !unbanall ID
 برای آنبن کردن استفاده میشود ولی فقط با ای دی میشود
 
-〰〰〰〰〰〰〰〰〰〰
+〰〰〰〰⇠⇠⇣⇢⇢〰〰〰〰〰〰
 2. GroupManager :
+
+☞★☜απσπφ๓σϑζ☞★☜
 
 !lock leave
 اگر کسی از گروه برود نمیتواند برگردد
@@ -480,8 +484,10 @@ gets The Group link
 !linkpv
 sends the group link to the PV
 برای دریافت لینک در پیوی استفاده میشه 
-〰〰〰〰〰〰〰〰
+〰〰〰〰⇠⇠⇣⇢⇢〰〰〰〰
 Admins :
+
+☞★☜απσπφ๓σϑζ☞★☜
 
 !add
 to add the group as knows
@@ -510,19 +516,28 @@ To send a message to an account by his/her ID
 برای فرستادن متنی توسط ربات به شخصی با ای دی اون
 
 
-〰〰〰〰〰〰〰〰〰〰〰
+〰〰〰〰〰⇠⇠⇣⇢⇢〰〰〰〰〰〰
 3.!stats
+
+☞★☜απσπφ๓σϑζ☞★☜
+
 To see the group stats
 برای دیدن آمار گروه 
 
-〰〰〰〰〰〰〰〰
+〰〰〰〰⇠⇠⇣⇢⇢〰〰〰〰
 4. Feedback
+
+☞★☜απσπφ๓σϑζ☞★☜
+
 !feedback (text)
 To send your ideas to the Moderation group
 برای فرستادن انتقادات و پیشنهادات و حرف خود با مدیر ها استفاده میشه
 
-〰〰〰〰〰〰〰〰〰〰〰
+〰〰〰〰〰⇠⇠⇣⇢⇢〰〰〰〰〰〰
 5. Tagall
+
+☞★☜απσπφ๓σϑζ☞★☜
+
 !tagall (text)
 To tags the every one and sends your message at bottom
 تگ کردن همه ی اعضای گروه و نوشتن پیام شما زیرش
@@ -530,7 +545,15 @@ To tags the every one and sends your message at bottom
 
 You Can user both "!" & "/" for them
 می توانید از دو شکلک !  و / برای دادن دستورات استفاده کنید
+             
+            ☞★☜απσπφ๓σϑζ☞★☜
+♛     channel bot[fa] ↬ @anonymou3nk_bot ↫
 
+♚     id sudo bot  ↬ @anonymou3nk ↫
+
+♝    ρ๑พεя ƒบℓℓ вγ ★.απσπφ๓σϑζ.★
+
+GΘΘD LUCK T-T 👋
 ]]
 
   }
